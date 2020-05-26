@@ -7,6 +7,7 @@ authors = ["Marco André Mendes <marcoandre@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.6.1"
 django = "^3.0.6"
+djangorestframework = "^3.11.0"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
